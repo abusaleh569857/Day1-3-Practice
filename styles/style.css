@@ -1,3 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.navbar{
+    background-color: aquamarine;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+   
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+}
+.nav-item{
+    padding: 10px; 
+}
+.profile{
+    padding-left: 35px;
+}
+.menu{
+    padding-right: 35px;
+}
+.about{
+    padding-right: 50px;
+}
 .container{
     background-color: purple;
     color: white;
